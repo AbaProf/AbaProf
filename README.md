@@ -1,6 +1,6 @@
-Sobre mim
-- 👋 Olá, meu nome é **_@AbaProf**_
-- 👍 Meu e-mail de contato é aba26black@gmail.com
+### Veja Bem vindo ao meu perfil ###
+- 👋 Olá, meu nome é **_Ariclenes**_
+- 👍 Meu e-mail de contato é ariclenes.azevedo@escola.pr.gov.br
 - 👀 Eu estou interessado em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar as linguagens JavaScript e Scratch.
 
