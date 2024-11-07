@@ -4,7 +4,7 @@
 - Estou estudando na plataforma [Alura](https://www.alura.com.br).
 - 👀 Eu estou interessado em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar as linguagens JavaScript, Html, CSS e Scratch.
-### Meu e-mail de contato é : ariclenes.azevedo@escola.pr.gov.br
+### Meu e-mail de contato é 📫 ariclenes.azevedo@escola.pr.gov.br
 
 
 ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
